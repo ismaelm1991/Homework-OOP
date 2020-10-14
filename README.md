@@ -29,3 +29,5 @@ This project certainly reinforced our basics of Node.JS - writing files, using b
 The hardest part for me was figuring out how to combine all the cards for the individual employees and embed them into a master HTML file. I did this with some pretty simple lines of code, so I was happy with myself for figuring that out after brainstorming with my instructor and TA for a little bit via Slack.
 
 <img src="1.png"/>
+
+<iframe src="https://drive.google.com/file/d/1ChQ9_IbU4nqPvUbLV3lAfOL3baSRqYkq/preview" width="640" height="480"></iframe>
